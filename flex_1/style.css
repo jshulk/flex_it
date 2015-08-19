@@ -9,13 +9,14 @@
 	font-size: 100px;
 	text-align: center;
 	padding: 10px;	
+	width: 300px;
 }
 
 .container {
 	display: flex;
 	border: 10px solid goldenrod;
 	min-height: 100vh;
-	flex-direction: column;
+	flex-wrap: wrap;
 }
 
 .box1 {
