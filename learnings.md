@@ -16,6 +16,7 @@ width: calc(33.33% - 20px) - used to calculate the width by subtracting the
 said no. of pixels from the desired width.
 
 ## flex 
+This property can have any number as it's value ( not just 1)
 flex: 1, apply on flex-items, takes all the available width and evenly distributes it among all the flex-items.
 
 ## order
